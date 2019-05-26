@@ -1,0 +1,7 @@
+[package]
+name = "nosedive"
+version = "0.1.0"
+authors = ["Jacob Greenfield <jacob@jacobgreenfield.me>"]
+edition = "2018"
+
+[dependencies]
